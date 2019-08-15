@@ -43,7 +43,7 @@ int main()
 		putchar('\n');
 	}
 	// >10
-	printf("|\t>10|\t");
+	printf("|>10|\t");
 	for(c = 0; c < lengths[MAX_LENGTH]; ++c) {
 		putchar('*');
 	}
