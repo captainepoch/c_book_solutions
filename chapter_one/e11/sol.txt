@@ -1,1 +1,11 @@
-// TODO
+Unit testing:
+
+ - No word
+ - One word
+ - One big word (no spaces)
+ - Enormous sequence os whitespaces and a word
+ - Input of /dev/random
+ - Input of /proc/cpuinfo
+ - A binary file
+ - word - word - spaces - word
+ - Verify the overflow of the machine
