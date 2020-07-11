@@ -8,3 +8,6 @@ Examples were compiled using:
 ```
 gcc -W -Wall -ansi -pedantic -g -o main main.c
 ```
+
+# License
+[MIT](./COPYING)
